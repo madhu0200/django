@@ -1,0 +1,26 @@
+To install the django first your system must have latest python  version.
+
+after installing python open command prompt and enter the following command.
+
+>>>python -m pip install -U pip
+
+Your system must have a environment to store your django projects.
+
+To install that enter the following command.
+
+>>>pip install virtualenv
+
+after that set virtual environment by doing the following commands
+
+>>>virtualenv nameofvirtualenvironment
+
+change directory 
+
+>>>cd nameofvirtualenvironment
+
+change directory to the Scripts and activate virtual environment
+
+>>>cd Scripts
+
+>>>activate
+
